@@ -421,7 +421,7 @@ pre[data-lang] {
   padding: var(--blockquote-padding);
   border-width: var(--blockquote-border-width, 0);
   border-style: var(--blockquote-border-style);
-  border-color: var(--blockquote-border-color);
+  border-color: hsl(0deg 0% 100%);
   border-radius: var(--blockquote-border-radius);
   background: var(--blockquote-background);
   color: var(--blockquote-color);
@@ -2503,7 +2503,7 @@ body .sidebar {
   --mark-background: #ffcb6b;
   --mark-color: var(--base-background-color);
   --selection-color: rgba(94, 131, 175, 0.75);
-  --blockquote-background: var(--mono-shade2);
+  --blockquote-background: hsl(0deg 0% 6.76%);
   --code-inline-background: var(--mono-tint1);
   --code-theme-background: var(--mono-shade2);
   --heading-color: #fff;
