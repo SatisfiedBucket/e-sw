@@ -2489,9 +2489,9 @@ body .sidebar {
 :root {
   --mono-hue: 201;
   --mono-saturation: 18%;
-  --mono-shade3: hsl(var(--mono-hue), var(--mono-saturation), 13%);
-  --mono-shade2: hsl(var(--mono-hue), var(--mono-saturation), 15%);
-  --mono-shade1: hsl(var(--mono-hue), var(--mono-saturation), 17%);
+  --mono-shade3: hsl(201, 18%, 13%);
+  --mono-shade2: hsl(0deg 0% 6.76%);
+  --mono-shade1: hsl(201, 18%, 17%);
   --mono-base: hsl(var(--mono-hue), var(--mono-saturation), 19%);
   --mono-tint1: hsl(var(--mono-hue), var(--mono-saturation), 25%);
   --mono-tint2: hsl(var(--mono-hue), var(--mono-saturation), 35%);
